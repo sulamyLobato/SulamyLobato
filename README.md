@@ -1,7 +1,7 @@
 # Sulamy Almeida Morais
 ### Olá! Me chamo Sulamy.
 💡 Engenheira de Dados, certificada Azure - AZ 900, apaixonada por dados. Pós graduanda em Engenharia de Dados pela Puc - Minas.
-📊 Experiência com Python, SQL, ETL, Pipeline, Pandas, Power Bi.
+📊 Experiência com Python, SQL, ETL, Pipeline, Pandas, Matplotlib, Seaborn, NumPy.
 ☁️ Trabalho com AWS (S3, Glue, Athena).
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
