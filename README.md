@@ -29,13 +29,14 @@ Matplotlib, Seaborn, NumPy.
 S3, Glue, Athena
 
 
+
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=pink)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/sulamyalmeida/)
 
-
-
-
+---
+---
+---
 
 
 
